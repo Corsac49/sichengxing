@@ -11,9 +11,9 @@ From 2023, I'm participating in time attack series in California: OnGrid Time At
 
 About myself:
 
-:book: Skills: C++/HTML (I’m currently learning CSS/ JAVA )
-:bow: Worked for Shanghai Intellisports and TSW Esports 
-:signal_strength: I like Digital Signal Processing Designs and Racing Telemetry Analysis 
+:book: Skills: C++/HTML (I’m currently learning CSS/ JAVA ) <br>
+:bow: Worked for Shanghai Intellisports and TSW Esports <br>
+:signal_strength: I like Digital Signal Processing Designs and Racing Telemetry Analysis <br>
 
 Networks:<br>
 Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Corsac49) <br>
