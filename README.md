@@ -10,7 +10,7 @@ About myself:
 
 - :book: Skills: C++/HTML
 
-- :bow: I’m currently working on Shanghai Intellisports TSW Esports 
+- :bow: Worked for Shanghai Intellisports and TSW Esports 
 - 🌱 I’m currently learning CSS/ JAVA 
 - 👯 I’m looking to collaborate on Digital Signal Processing Designs and Racing Telemetry Analysis 
 - 💬 Ask me about Anything 
