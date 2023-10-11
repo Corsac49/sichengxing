@@ -1,6 +1,6 @@
 ## Hi there, My name is Sicheng Xing 👋 He, Him 😄
 ### Electrical and Electronic Enginnering student, Simulator Racing Drivers
-#### I have higher telerance of ethanol than a tippler :) 
+#### I have higher telerance of ethanol than a tippler :laughing:
 - :email:kenscira@gmail.com
 
 I'm from China, as a senior Electrical and Electronic Enginnering student at UCLA. 
