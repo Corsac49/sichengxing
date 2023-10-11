@@ -9,7 +9,7 @@ From 2023, I'm participating in time attack series in California: OnGrid Time At
 
 Skills: C++/HTML
 
-- 🔭 I’m currently working on Shanghai Intellisports TSW Esports 
+- :bow: I’m currently working on Shanghai Intellisports TSW Esports 
 - 🌱 I’m currently learning CSS/ JAVA 
 - 👯 I’m looking to collaborate on Digital Signal Processing Designs and Racing Telemetry Analysis 
 - 💬 Ask me about Anything 
