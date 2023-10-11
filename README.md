@@ -1,5 +1,8 @@
-## Hi there, My name is Sicheng Xing 👋
+## Hi there, My name is Sicheng Xing 👋 He, Him 😄
 ### Electrical and Electronic Enginnering student, Simulator Racing Drivers
+#### I have higher telerance of ethanol than a tippler :) 
+- :email:kenscira@gmail.com
+- 
 I'm from China, as a senior Electrical and Electronic Enginnering student at UCLA. 
 I enjoy doing electronic circuit analysis and digital signal processing designs.
 I also enjoy studying civil engineering materials, like transportation geography and transportation engineering.
@@ -8,15 +11,9 @@ From 2023, I'm participating in time attack series in California: OnGrid Time At
 
 About myself:
 
-- :book: Skills: C++/HTML
-
+- :book: Skills: C++/HTML (I’m currently learning CSS/ JAVA )
 - :bow: Worked for Shanghai Intellisports and TSW Esports 
-- 🌱 I’m currently learning CSS/ JAVA 
-- 👯 I’m looking to collaborate on Digital Signal Processing Designs and Racing Telemetry Analysis 
-- 💬 Ask me about Anything 
-- 📫 How to reach me: kenscira@gmail.com 
-- 😄 Pronouns: He, Him 
-- ⚡ Fun fact: I have higher telerance of ethanol than a tippler :) 
+- :signal_strength: I like Digital Signal Processing Designs and Racing Telemetry Analysis 
 
 Networks:
 Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Corsac49) 
