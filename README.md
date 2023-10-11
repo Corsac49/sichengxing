@@ -6,8 +6,9 @@ I also enjoy studying civil engineering materials, like transportation geography
 Besides, I'm a simulator racing drivers with one F1 esports series driver championship title on my belt. 
 From 2023, I'm participating in time attack series in California: OnGrid Time Attack series, Wilwood Racing Challenges, etc.
 
+About myself:
 
-Skills: C++/HTML
+- :book: Skills: C++/HTML
 
 - :bow: I’m currently working on Shanghai Intellisports TSW Esports 
 - 🌱 I’m currently learning CSS/ JAVA 
