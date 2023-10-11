@@ -16,7 +16,7 @@ About myself:
 - :signal_strength: I like Digital Signal Processing Designs and Racing Telemetry Analysis 
 
 Networks:
-Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Corsac49) 
+Github [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Corsac49) <br>
 Ins [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bieqiang/) 
 YT[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Heart49) 
 Racing Series [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/generalmotors.svg' alt='generalmotors' height='40'>](https://www.facebook.com/CorvetteChallenge/)  
