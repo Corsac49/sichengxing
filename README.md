@@ -1,6 +1,6 @@
 <img src="https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG" width="200" height="250">
 <br>
-<h1>Hi there. My name is Sicheng Xing 👋 
+<h1>Hi there. My name is Sicheng Xing 👋 <br>
 <h2>Electrical and Electronic Enginnering student, Simulator Racing Drivers <br>
 
 :email:kenscira@gmail.com
