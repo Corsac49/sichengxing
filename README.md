@@ -1,6 +1,6 @@
 ## Hi there, My name is Sicheng Xing 👋 He, Him 😄
 ### Electrical and Electronic Enginnering student, Simulator Racing Drivers
-![](https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG =250x250)
+<img src="[(https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG]" width="100" height="100">
 #### I have higher telerance of ethanol than a tippler :laughing:
 :email:kenscira@gmail.com
 
