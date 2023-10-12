@@ -1,11 +1,12 @@
+<img src="https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG" width="200" height="250">
 ## Hi there. My name is Sicheng Xing 👋 He, Him 😄
 ### Electrical and Electronic Enginnering student, Simulator Racing Drivers
 #### I have higher tolerance of ethanol than a tippler :laughing:
-<img src="https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG" width="200" height="250">
+
 
 :email:kenscira@gmail.com
 
-About myself:
+Skills and Experience
 
 I'm from China, as a senior Electrical and Electronic Enginnering student at UCLA. 
 I enjoy doing electronic circuit analysis and digital signal processing designs.
@@ -13,9 +14,7 @@ I also enjoy studying civil engineering materials, like transportation geography
 Besides, I'm a simulator racing drivers with one F1 esports series driver championship title on my belt. 
 From 2023, I'm participating in time attack series in California: OnGrid Time Attack series, Wilwood Racing Challenges, etc.
 
-
-
-:book: Skills: C++/HTML (I’m currently learning CSS/ JAVA ) <br>
+:book: C++/HTML (I’m currently learning CSS/ JAVA ) <br>
 :bow: Worked for Shanghai Intellisports and TSW Esports <br>
 :signal_strength: I like Digital Signal Processing Designs and Racing Telemetry Analysis <br>
 
