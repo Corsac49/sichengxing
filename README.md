@@ -1,6 +1,6 @@
 <img src="https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG" width="200" height="250">
 <br>
-#Hi there. My name is Sicheng Xing 👋 He, Him 😄 <br>
+Hi there. My name is Sicheng Xing 👋 
 Electrical and Electronic Enginnering student, Simulator Racing Drivers <br>
 I have higher tolerance of ethanol than a tippler :laughing: <br>
 
