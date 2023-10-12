@@ -2,7 +2,6 @@
 <br>
 Hi there. My name is Sicheng Xing 👋 
 Electrical and Electronic Enginnering student, Simulator Racing Drivers <br>
-I have higher tolerance of ethanol than a tippler :laughing: <br>
 
 :email:kenscira@gmail.com
 
