@@ -1,11 +1,11 @@
 <img src="https://github.com/Corsac49/sichengxing/blob/main/2021%20Title.JPG" width="200" height="250">
 <br>
-Hi there. My name is Sicheng Xing 👋 
-Electrical and Electronic Enginnering student, Simulator Racing Drivers <br>
+<h1>Hi there. My name is Sicheng Xing 👋 
+<h2>Electrical and Electronic Enginnering student, Simulator Racing Drivers <br>
 
 :email:kenscira@gmail.com
 
-##Skills and Experience
+Skills and Experience
 
 I'm from China, as a senior Electrical and Electronic Enginnering student at UCLA. 
 I enjoy doing electronic circuit analysis and digital signal processing designs.
